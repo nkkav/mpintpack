@@ -27,7 +27,7 @@ begin
       wait for CLK_PERIOD;
       prod := mpz_mul(prod, x);
       assert false 
-        report "fact2(" & integer'IMAGE(i) & ") = " & mpz_get_str(prod)
+        report "fact(" & integer'IMAGE(i) & ") = " & mpz_get_str(prod)
         severity note;
       wait for CLK_PERIOD;
     end loop;
