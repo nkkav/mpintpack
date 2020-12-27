@@ -1,0 +1,26 @@
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@30ns:(assertion note): f =01
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@50ns:(assertion note): f =02
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@70ns:(assertion note): f =03
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@90ns:(assertion note): f =05
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@110ns:(assertion note): f =08
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@130ns:(assertion note): f =0D
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@150ns:(assertion note): f =15
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@170ns:(assertion note): f =22
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@190ns:(assertion note): f =37
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@210ns:(assertion note): f =59
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@230ns:(assertion note): f =90
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@250ns:(assertion note): f =E9
+../../src/ieee/v93/numeric_std-body.vhdl:2098:7:@260ns:(assertion warning): NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+../../src/ieee/v93/numeric_std-body.vhdl:2098:7:@270ns:(assertion warning): NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@270ns:(assertion note): f =0079
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@290ns:(assertion note): f =0162
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@310ns:(assertion note): f =01DB
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@330ns:(assertion note): f =033D
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@350ns:(assertion note): f =0518
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@370ns:(assertion note): f =0855
+../../../bench/vhdl/gmpfibo_slv.vhd:33:7:@390ns:(assertion note): f =0D6D
+../../../bench/vhdl/gmpfibo_slv.vhd:40:5:@400ns:(assertion failure): End simulation time reached
+ghdl:error: assertion failed
+in process .gmpfibo_slv(tb_arch).test
+  from: process work.gmpfibo_slv(tb_arch).test at gmpfibo_slv.vhd:40
+ghdl:error: simulation failed

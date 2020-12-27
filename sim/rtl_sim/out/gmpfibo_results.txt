@@ -1,0 +1,24 @@
+../../../bench/vhdl/gmpfibo.vhd:32:7:@30ns:(assertion note): f =01
+../../../bench/vhdl/gmpfibo.vhd:32:7:@50ns:(assertion note): f =02
+../../../bench/vhdl/gmpfibo.vhd:32:7:@70ns:(assertion note): f =03
+../../../bench/vhdl/gmpfibo.vhd:32:7:@90ns:(assertion note): f =05
+../../../bench/vhdl/gmpfibo.vhd:32:7:@110ns:(assertion note): f =08
+../../../bench/vhdl/gmpfibo.vhd:32:7:@130ns:(assertion note): f =0D
+../../../bench/vhdl/gmpfibo.vhd:32:7:@150ns:(assertion note): f =15
+../../../bench/vhdl/gmpfibo.vhd:32:7:@170ns:(assertion note): f =22
+../../../bench/vhdl/gmpfibo.vhd:32:7:@190ns:(assertion note): f =37
+../../../bench/vhdl/gmpfibo.vhd:32:7:@210ns:(assertion note): f =59
+../../../bench/vhdl/gmpfibo.vhd:32:7:@230ns:(assertion note): f =90
+../../../bench/vhdl/gmpfibo.vhd:32:7:@250ns:(assertion note): f =E9
+../../../bench/vhdl/gmpfibo.vhd:32:7:@270ns:(assertion note): f =0179
+../../../bench/vhdl/gmpfibo.vhd:32:7:@290ns:(assertion note): f =0262
+../../../bench/vhdl/gmpfibo.vhd:32:7:@310ns:(assertion note): f =03DB
+../../../bench/vhdl/gmpfibo.vhd:32:7:@330ns:(assertion note): f =063D
+../../../bench/vhdl/gmpfibo.vhd:32:7:@350ns:(assertion note): f =0A18
+../../../bench/vhdl/gmpfibo.vhd:32:7:@370ns:(assertion note): f =1055
+../../../bench/vhdl/gmpfibo.vhd:32:7:@390ns:(assertion note): f =1A6D
+../../../bench/vhdl/gmpfibo.vhd:39:5:@400ns:(assertion failure): End simulation time reached
+ghdl:error: assertion failed
+in process .gmpfibo(tb_arch).test
+  from: process work.gmpfibo(tb_arch).test at gmpfibo.vhd:39
+ghdl:error: simulation failed

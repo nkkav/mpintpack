@@ -1,0 +1,21 @@
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@20ns:(assertion note): fact2(1) = 01
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@40ns:(assertion note): fact2(2) = 02
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@60ns:(assertion note): fact2(3) = 06
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@80ns:(assertion note): fact2(4) = 18
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@100ns:(assertion note): fact2(5) = 78
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@120ns:(assertion note): fact2(6) = 02D0
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@140ns:(assertion note): fact2(7) = 13B0
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@160ns:(assertion note): fact2(8) = 9D80
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@180ns:(assertion note): fact2(9) = 058980
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@200ns:(assertion note): fact2(10) = 375F00
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@220ns:(assertion note): fact2(11) = 02611500
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@240ns:(assertion note): fact2(12) = 1C8CFC00
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@260ns:(assertion note): fact2(13) = 017328CC00
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@280ns:(assertion note): fact2(14) = 144C3B2800
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@300ns:(assertion note): fact2(15) = 013077775800
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@320ns:(assertion note): fact2(16) = 130777758000
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@340ns:(assertion note): fact2(17) = 01437EEECD8000
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@360ns:(assertion note): fact2(18) = 16BEECCA730000
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@380ns:(assertion note): fact2(19) = 01B02B9306890000
+../../../bench/vhdl/gmpfact_slv.vhd:29:7:@400ns:(assertion note): fact2(20) = 21C3677C82B40000
+ghdl:info: simulation stopped by --stop-time @410ns
